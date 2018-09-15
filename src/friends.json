@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "T-Rex",
+    "image": "http://i588.photobucket.com/albums/ss330/Tonymontana0606/RexTN_1jpgd6668e5b-7b53-45f0-b74e-3.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Velociraptor",
+    "image": "http://i1113.photobucket.com/albums/k513/MoxtheSox/Velociraptor.jpg",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "Utah Raptor",
+    "image": "http://i272.photobucket.com/albums/jj177/Funky_Peanut/OokRaptorMal.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "http://i185.photobucket.com/albums/x273/kayblahh/Dexter/P1010520.jpg",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "Deinoychus",
+    "image": "http://img11.deviantart.net/009c/i/2011/346/f/b/deinonychus_antirrhopus_by_pheaston-d4iyxad.jpg",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "Coelophysis",
+    "image": "http://i986.photobucket.com/albums/ae343/GingGon/Origami/10-2011/IMG_4327-1.jpg",
+    "occupation": "Student",
+    "location": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "Oviraptor",
+    "image": "http://i16.photobucket.com/albums/b15/DinoDragon5/3.jpg",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Dilophosaurus",
+    "image": "http://i157.photobucket.com/albums/t75/paulhelfrich/Dilophosaur6.jpg",
+    "occupation": "Adventurer",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "Compsognathus",
+    "image": "http://i28.photobucket.com/albums/c230/olle141516/Dinosaurs/Spino.jpg",
+    "occupation": "Cashier",
+    "location": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Trodon",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.pWbJNvUXRwSStn9v_ooUPgHaE8&pid=Api",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "Indominous Rex",
+    "image": "http://i1372.photobucket.com/albums/ag359/dclkidsu2/Previous%20Years/1%20Summer%202015/Indigo/https3A2F2F41.media.tumblr.com2F037870d09825a11e772102dbe8d790032Ftumblr_nq1bo8rMcP1qk0vz9o1_540_zpssnnig1iw.png",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump"
+  }
+]
