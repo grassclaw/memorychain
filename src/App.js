@@ -1,21 +1,21 @@
 import React, { Component } from "react";
-import FriendCard from "./components/FriendCard";
+import FriendCard from "./components/DinoCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import friends from "./friends.json";
+import Dino from "./Dino.json";
 import "./App.css";
 
 class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {
-    friends
+    Dino
   };
 
   removeFriend = id => {
     // Filter this.state.friends for friends with an id not equal to the id being removed
-    const friends = this.state.friends.filter(friend => friend.id !== id);
+    const Dino = this.state.Dino.filter(friend => friend.id !== id);
     // Set this.state.friends equal to the new friends array
-    this.setState({ friends });
+    this.setState({ Dino });
   };
 
   // Map over this.state.friends and render a FriendCard component for each friend object
@@ -23,7 +23,7 @@ class App extends Component {
     return (
       <Wrapper>
         <Title>Friends List</Title>
-        {this.state.friends.map(friend => (
+        {this.state.Dino.map(friend => (
           <FriendCard
             removeFriend={this.removeFriend}
             id={friend.id}
