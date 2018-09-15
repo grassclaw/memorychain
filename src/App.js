@@ -11,7 +11,7 @@ class App extends Component {
     Dino
   };
 
-  removeFriend = id => {
+  removeDino = id => {
     // Filter this.state.friends for friends with an id not equal to the id being removed
     const Dino = this.state.Dino.filter(friend => friend.id !== id);
     // Set this.state.friends equal to the new friends array
